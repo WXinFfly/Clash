@@ -1,1 +1,3 @@
-platform.claude.com
+payload:
+  # > mailchimp
+  - DOMAIN-SUFFIX,claude.com
