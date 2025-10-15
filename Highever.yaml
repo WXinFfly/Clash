@@ -1,3 +1,5 @@
 payload:
   # > mailchimp
   - DOMAIN-SUFFIX,mailchimp.com
+  # > lowes
+  - DOMAIN-SUFFIX,lowes.com
