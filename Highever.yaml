@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,mailchimp.com
   # > lowes
   - DOMAIN-SUFFIX,lowes.com
+  # > Homedepot
+  - DOMAIN-SUFFIX,homedepot.com
