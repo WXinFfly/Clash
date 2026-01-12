@@ -7,3 +7,5 @@ payload:
   - DOMAIN-SUFFIX,homedepot.com
   # > yuanqin
   - DOMAIN-SUFFIX,api.houzz.com
+  # > liye
+  - DOMAIN-SUFFIX,www.houzz.com
